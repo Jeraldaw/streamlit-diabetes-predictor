@@ -1,5 +1,0 @@
-streamlit
-pandas
-scikit-learn # if you use sklearn for your model
-numpy
-# Add any other libraries your app uses (e.g., matplotlib, seaborn, tensorflow, pytorch)
